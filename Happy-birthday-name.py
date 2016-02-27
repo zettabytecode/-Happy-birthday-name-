@@ -1,5 +1,5 @@
 def happy_birthday():
-    print "What is your name?"
+    print "Good day. What is your name?"
     name = raw_input("Type your name and hit 'Enter'.")
     print "Is today your birthday?"
     answer = raw_input("Type yes or no and hit 'Enter'.").lower()
@@ -12,3 +12,4 @@ def happy_birthday():
         happy_birthday()
 
 happy_birthday()
+
