@@ -1,0 +1,42 @@
+h1, h2{
+  font-family: 'Amiri', sans-serif;
+  text-align: center;
+  
+  margin: 15px 0;
+  font-size: 1.75em;
+  font-weight: normal;
+  line-height: 0.8em;
+}
+h3{
+  text-align: center;
+  color: #3336FF;
+}
+h4{
+  color: #3336FF;
+}
+
+a{
+  text-decoration: none;
+}
+#gallery {
+  list-style: none;
+}
+body {
+  background-color: #fff;
+  color: #BE33FF ;
+  font-size: 1.65em;
+  
+}
+p{
+  color: #FF3364 ;
+  font-family: 'Amiri', sans-serif;
+  font-size: 1.45em;
+  
+}
+
+footer{
+  font-size: 1.25em;
+  text-align: center;
+  padding-top: 50px;
+  color: #ccc;
+}
